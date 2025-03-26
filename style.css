@@ -1,0 +1,220 @@
+.top{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    overflow-x: hidden;
+        font-size: 16px; 
+        
+      
+}
+
+
+header{
+    padding: 20px 0;
+    margin-bottom: 150px;
+}
+header.top{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    
+}
+header nav ul li {
+    margin-left: 100px;
+
+}
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+ .topbutton{
+    display: flex;
+    gap: 10px;
+}
+.login-btn, .signup-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.signup-btn {
+    background-color: pink;
+    color:white;
+}
+.highlight {
+    font-weight: bold;
+}
+
+.highlight-charge u {
+    color: red;
+}
+.platform{
+    margin-left: 150px;
+}
+.profile{
+    margin-bottom: 150px;
+    display: flex;
+    gap: 100px;
+}
+.apple{
+            padding: 8px 16px;
+            background-color:midnightblue;
+            color: white;
+            border:solid;
+            border-radius: 10px;
+            cursor: pointer;
+            text-decoration: none;
+            
+}
+.playstore{
+    padding: 8px 16px;
+            color:midnightblue;
+            border:solid midnightblue;
+            border-radius: 10px;
+            cursor: pointer;
+            text-decoration: none;
+
+}
+#contact{
+    color: midnightblue;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+#profile{
+    width: 300px;
+    height: 300px;
+}
+.software{
+display: flex;
+justify-content: center;
+}
+.googleicon{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.product{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#red{
+    color: red;
+    text-decoration: underline;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.interface{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 100px;
+}
+.easy{
+    border: solid palevioletred;
+}
+.numbers{
+position: relative;
+top: 20%;
+left: 20%;
+}
+.downloads{
+    display: flex;
+    padding-left: 100px;
+    gap: 300px;
+    justify-content: center;
+    margin: 100px;
+}
+#diti{
+    color: red;
+}
+.study{
+    display: flex;
+}
+#globally{
+    position: relative;
+top: 50%;
+left: 50%;
+
+}
+.customers{
+    display: flex;
+    justify-content: center;
+}
+.knowbtn{
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: blue;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.pay{
+    display: flex;
+}
+
+
+
+
+
+.mobile{
+    justify-content: center;
+    display: flex;
+    gap: 300px;
+margin-bottom: 100px;
+}
+
+    
+.clients{
+    display: flex;
+    justify-content: center;
+}
+.payment{
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+#headshot{
+    width: 100px;
+    border-radius: 50%;
+}
+.businessman{
+    border: solid palevioletred;
+}
+.app{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    margin-bottom: 100px;
+}
+#tablet{
+    width: 300px;
+}
+.blog{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: midnightblue;
+    color: white;
+
+}
+.bottom{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    gap: 100px;
+
+}
